@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basics 8</title>
+    <title>Associated Arrays</title>
 </head>
 <body>
     <form action="8_associatedArrays.php" method="post">
