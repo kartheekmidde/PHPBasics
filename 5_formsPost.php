@@ -3,7 +3,7 @@
         <title></title>
     </head>
     <body>
-        <form action="Basics5_formsPost.php" method="post">
+        <form action="5_formsPost.php" method="post">
             Password: <input type="password" name="password">
             <input type="submit" value="Submit">
         </form>

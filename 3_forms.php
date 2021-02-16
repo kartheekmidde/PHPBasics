@@ -3,7 +3,7 @@
         <title>Basic Calculator</title>
     </head>
     <body>
-        <form action="Basics3_forms.php" method="get">
+        <form action="3_forms.php" method="get">
             Number 1: <input type="number" name="num1"><br>
             Number 2: <input type="number" name="num2"><br>
             <input type="submit" value="Submit">
