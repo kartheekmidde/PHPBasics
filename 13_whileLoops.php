@@ -19,6 +19,15 @@
             echo "The value is " . $ind . "<br>";
             $ind++;
         } while ($ind <= 5);
+
+        $val = 5;
+        while ($val < 10): 
     ?>
+        <br>
+        <?php 
+            echo "Test <br>";
+            $val++;
+        ?>
+        <?php endwhile; ?>
 </body>
 </html>
