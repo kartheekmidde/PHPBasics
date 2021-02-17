@@ -7,7 +7,7 @@
     <title>Basic Calc</title>
 </head>
 <body>
-    <form action="11.basicCalc.php" method="post">
+    <form action="11_basicCalc.php" method="post">
         First Num: <input type="number" step="0.1" name="firstNum"> <br>
         Op: <input type="text" name="operator"> <br> 
         Second Num: <input type="number" name="secondNum"> <br>

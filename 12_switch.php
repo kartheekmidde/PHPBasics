@@ -7,7 +7,7 @@
     <title>Switch</title>
 </head>
 <body>
-    <form action="12.switch.php" method="post">
+    <form action="12_switch.php" method="post">
         Grade: <input type="text" name="grade" id="grade"><br>
         <input type="submit" value="Submit">
     </form>
