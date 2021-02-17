@@ -7,7 +7,7 @@
     <title>Associated Arrays</title>
 </head>
 <body>
-    <form action="8_associatedArrays.php" method="post">
+    <form action="08_associatedArrays.php" method="post">
         Name: <input type="text" name="sname">
         <input type="submit" value="submit">
     </form>

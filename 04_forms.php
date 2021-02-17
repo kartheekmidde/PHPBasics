@@ -7,7 +7,7 @@
     <title>Forms</title>
 </head>
     <body>
-        <form action="4_forms.php" method="get">
+        <form action="04_forms.php" method="get">
             Color: <input type="text" name="color"><br>
             Plural Noun: <input type="text" name="pluralNoun"><br>
             Celebrity: <input type="text" name="celebrity"><br>

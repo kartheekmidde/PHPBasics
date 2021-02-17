@@ -8,7 +8,7 @@
 </head>
     <body>
         <!-- Getting User Input -->
-        <form action="2_forms.php" method="get">
+        <form action="02_forms.php" method="get">
             Name: <input type="text" name="uname">
             <br>
             Age: <input type="number" name="age">
